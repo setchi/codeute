@@ -1,0 +1,110 @@
+.well {
+    background-color: #222;
+}
+
+.tab-content {
+	max-width: 686px;
+	width: 70%;
+	margin-left: 34% !important;
+}
+
+.sidebar {
+	position: fixed;
+	border-radius: 4px;
+	background-color: rgb(34, 34, 34);
+	width: 30% !important;
+	max-width: 331px;
+}
+
+.sidebar ul {
+	display: inline-block;
+	position: relative;
+	width: 100%;
+}
+
+.sidebar li a:hover {
+	background-color: gray;
+	color: #fff;
+}
+
+#account .result {
+	color: #f00;
+	padding-left: 10px;
+}
+
+/* user_list */
+
+.user-list>li {
+	border-bottom: 1px solid rgba(55, 55, 55, 1);
+}
+.user-list>li a {
+	padding: 0px;
+}
+
+.user-list>li div {
+	color: rgba(255, 255, 255, 0.7);
+	margin: 0px !important;
+	display: inline;
+}
+
+.user-list>li div .content {
+	display: inline-block;
+	border-left: 3px solid rgba(0, 0, 0, 0);
+	padding-left: 12px;
+	height: 34px;
+	line-height: 34px;
+	margin: 7px 0px;
+}
+
+.user-list>li:hover a .content {
+	border-left: 3px solid rgb(23, 186, 0);
+}
+
+.user-list>.active a {
+	background-color: transparent;
+}
+
+.user-list a:hover {
+	border-radius: 0px;
+	border-radius: 0px;
+}
+
+.user-list>li div>span>.lang {
+	padding-left: 10px;
+	color: #666;
+}
+
+/* アイコン */
+.user-list>li ul {
+	display: none;
+	padding-right: 10px;
+	margin-bottom: 0px;
+	opacity: 0.8;
+}
+
+/*  */
+.user-list>li ul>li:last-child:hover, .user-list>li ul>li a:hover {
+	color: rgb(255, 255, 255);
+}
+.user-list>li ul>li:last-child, .user-list>li ul>li a {
+	color: rgba(255, 255, 255, 0.5);
+	cursor: pointer;
+	height: 48px;
+	line-height: 48px;
+}
+
+.user-list>li ul>li {
+	padding: 0px 9px;
+}
+
+/* 編集ボタン */
+.user-list>li ul>li a {
+	padding: 0;
+	margin: 0px;
+}
+
+
+.user-list>li:hover ul {
+	display: inline;
+}
+/* アイコン */

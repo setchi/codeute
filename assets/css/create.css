@@ -1,0 +1,107 @@
+.hero-unit {
+    padding: 45px 0px 0px 60px;
+    font-family: "Audiowide",メイリオ,Meiryo,"ＭＳ Ｐゴシック",sans-serif !important;
+    background-color: #222;
+}
+
+h2 {
+    text-shadow: 1px 1px 5px #000;
+}
+
+#editingLang {
+    font-style: italic;
+}
+
+.page-header {
+	text-shadow: 1px 1px 5px #111;
+}
+
+#container .btn {
+    background-color: rgb(0, 0, 0);
+    background-image: linear-gradient(rgb(27, 27, 27), rgb(10, 10, 10));
+}
+
+#container .btn:hover {
+    background-image: linear-gradient(rgb(23, 23, 23), rgb(7, 7, 7));
+    background-position: 0px 0px;
+}
+
+#container .btn:active {
+    background-image: linear-gradient(rgb(10, 10, 10), rgb(16, 16, 16));
+}
+
+#container .detailsetting {
+    margin-top: 15px;
+}
+
+.input {
+    margin-right: 90px;
+}
+
+.num {
+    font-size: 1.7em;
+    font-style: italic;
+}
+
+.hero-unit .control-label {
+    margin-top: 15px;
+}
+
+.margintop {
+    margin-top: 5px;
+}
+
+.btn-large {
+    position: relative;
+    width: 100%;
+    margin-left: 0px;
+    padding-right: 0px; 
+    padding-left: 0px; 
+}
+
+small {
+    margin-right: 90px;
+}
+
+#tokenizeProgress > .bar {
+    transition-delay: 0s;
+    transition-duration: 0.2s;
+    transition-property: width;
+    transition-timing-function: ease;
+}
+
+ol li {
+	font-size: 1em;
+}
+
+ol li small {
+	font-size: 0.7em;
+}
+
+textarea {
+    height: 85px;
+    height: 115px;
+}
+
+.span2 {
+    margin-left: 10px !important;
+}
+
+#editor {
+    position:relative;
+    width: 100%;
+    min-height: 250px;
+    margin-bottom: 10px;
+}
+
+.arrow-right {
+	position: relative;
+	width: 0;
+	height: 0;
+	bottom: -50px;
+	left: 30%;
+    margin-left: -80px;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-top: 25px solid rgb(34, 34, 34);
+}

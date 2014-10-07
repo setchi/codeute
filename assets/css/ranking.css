@@ -1,0 +1,42 @@
+
+#rankingTable_wrapper > div {
+    /**
+    background-color: rgb(34, 34, 34);
+    border-color: rgb(34, 34, 34);
+    /**/
+    background-color: #252525;
+    border-color: #252525;
+}
+
+#rankingTable {
+    color: rgb(17, 17, 17);
+    width: 100% !important;
+}
+
+#rankingTable th {
+	font-size: 14px;
+    font-weight: normal;
+}
+
+#rankingTable td.col-right {
+    text-align: right;
+}
+#rankingTable td.col-center {
+    text-align: center;
+}
+#rankingTable td.col-left {
+    text-align: left;
+}
+#rankingTable .r-user_name {
+    min-width: 210px;
+}
+
+.select-lang {
+    margin-bottom: 0px;
+    margin-top: 15px;
+}
+
+hr {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,116 @@
+
+#viewScreen, #mirrorScreen, #typeScreen {
+    font-size: 16px;
+}
+
+#viewScreen, #mirrorScreen { 
+    /*border-radius: 6px 0px 0px 6px;*/
+}
+
+#viewScreen, #typeScreen, #loading, #edit {
+    /*box-shadow: 0px 0px 10px 0px #000;*/
+}
+
+#typeScreen { 
+	position: absolute;
+    /*border-radius: 0px 6px 6px 0px;*/
+	height: 100%;
+}
+
+
+
+
+
+#edit {
+	/*background-color: #202328;*/
+	background-color: rgb(34, 34, 34);
+	overflow: auto;
+}
+
+#edit .editContents {
+	padding: 60px;
+}
+
+/*
+#edit #editingLang {
+    /color: #0099ff;
+}
+//*/
+
+#edit .page-header {
+	text-shadow: 1px 1px 5px #111;
+}
+
+#edit .code-save {
+    width: 50%;
+}
+
+#edit .progress {
+    width: 50%;
+}
+
+#edit select {
+    width: 50%;
+}
+
+#edit #tokenizeProgress > .bar {
+    transition-delay: 0s;
+    transition-duration: 0.2s;
+    transition-property: width;
+    transition-timing-function: ease;
+}
+
+#edit ol li {
+	font-size: 1.3em;
+	line-height: 2em;
+}
+
+#edit ol li small {
+	font-size: 0.7em;
+}
+
+.span2 {
+	background-color: #202328;
+	border-radius: 6px;
+}
+
+
+
+
+
+
+/* ace-editor control */
+.ace_text-layer * {
+    /**
+    /font-weight: bold !important;
+    /**/
+}
+
+.ace_dark.typing_view .ace_text-layer * {
+    color:#fff !important;
+    opacity: 0.7 !important;
+    font-weight: normal !important;
+
+}
+
+.typing_view .ace_text-layer * {
+    color:#000 !important;
+    opacity: 0.7 !important;
+    font-weight: normal !important;
+}
+
+#viewScreen .ace_hidden-cursors .ace_cursor {
+    opacity:1;
+}
+#viewScreen .ace_cursor, #typeScreen .ace_cursor {
+    border-left-width: 2px;
+}
+
+#typeScreen .ace_gutter-cell, .typing_view .ace_gutter-cell{
+    background-image: none !important;
+}
+/*
+#typeScreen .ace_comment, #viewScreen .ace_comment, #mirrorScreen .ace_comment {
+    font-style: normal;
+}*/
+/* ace-editor control */

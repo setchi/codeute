@@ -1,0 +1,43 @@
+.hero-unit {
+    text-align: center;
+    padding-bottom: 170px;
+}
+
+.logo {
+    text-shadow: 5px 5px 10px #111;
+    font-size: 1.1em;
+}
+
+p {
+    font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'source-code-pro', "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro",メイリオ,Meiryo,"ＭＳ Ｐゴシック", monospace;
+    text-shadow: 1px 1px 5px #000;
+}
+
+.form-vertical {
+	position: absolute;
+	width: 400px;
+	left: 50%;
+	margin-left: -200px;
+	margin-top: 10px;
+}
+
+input[type="text"] {
+	width: 270px;
+	height: 35px;
+	font-size: 22px;
+	margin: 0px;
+	border-radius: 6px;
+	text-align: center;
+    font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', メイリオ,Meiryo,"ＭＳ Ｐゴシック", monospace;
+}
+
+input[type="submit"] {
+	width: 100px;
+	margin: 0px;
+	font-size: 18px;
+	font-style: italic;	
+}
+
+#nickname {
+	margin-left: 0px;
+}
