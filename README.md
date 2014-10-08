@@ -2,7 +2,8 @@ Codeute!
 =======
 コーデュートは、書いたコードをタイピングゲームにして遊べるWebアプリです。
 
-[https://codeute.com/](https://codeute.com/)
+* [https://codeute.com/](https://codeute.com/)
+ * JavaScriptのサンプル: [https://codeute.com/javascript/1](https://codeute.com/javascript/1)
 
 SNSアカウント(Facebook, Twitter, GitHub)でログインして、好きなコードをアップロードしてタイピング練習できます。総合ランキングでユーザー同士で競い合えます。
 
