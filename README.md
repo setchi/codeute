@@ -11,11 +11,11 @@ SNSアカウント(Facebook, Twitter, GitHub)でログインして、好きな�
 
 プレイ画面
 --------------------
-![Codeute! result](https://codeute.com/assets/img/codeute_typing.png "Codeute! result")
+![Codeute! result](assets/img/codeute_typing.png "Codeute! result")
 
 結果画面
 --------------------
-![Codeute! result](https://codeute.com/assets/img/codeute_result.png "Codeute! result")
+![Codeute! result](assets/img/codeute_result.png "Codeute! result")
 
 
 動作環境
