@@ -1,5 +1,4 @@
-Codeute!
-=======
+# Codeute!
 コーデュートは、書いたコードをタイピングゲームにして遊べるWebアプリです。
 
 * [https://codeute.com/](https://codeute.com/)
@@ -9,27 +8,22 @@ SNSアカウント(Facebook, Twitter, GitHub)でログインして、好きな�
 
 コードは、とりあえず動くことを優先したものが多いので全体的に汚いです。
 
-プレイ画面
---------------------
+## プレイ画面
 ![Codeute! result](assets/img/codeute_typing.png "Codeute! result")
 
-結果画面
---------------------
+## 結果画面
 ![Codeute! result](assets/img/codeute_result.png "Codeute! result")
 
 
-動作環境
---------------------
+## 動作環境
 下記の環境で動作を確認しています。
 
 * Apache 2.2.3
 * PHP 5.3.3
 * MySQL 5.0.95
 
-ビルド
---------------------
+## ビルド
 * fuel/app/config/内のdb.phpとopauth.phpの設定が必要です。
 
-Copyright
---------------------
-Copyright &copy; 2011 setchi_. See LICENSE for details.
+## LICENSE
+MIT
