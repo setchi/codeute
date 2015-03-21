@@ -53,7 +53,7 @@
 						<div class="message">
 							<h4>制作者</h4>
 							<div class="about-contents">
-								<p><a href="https://twitter.com/intent/user?screen_name=setchi_">@setchi_</a></p>
+								<p><a href="https://twitter.com/intent/user?screen_name=setchi">@setchi</a></p>
 							</div>
 						</div>
 					</div>
