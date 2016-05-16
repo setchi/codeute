@@ -13,7 +13,7 @@ $og_description = $code_data['description'] ? $code_data['description'] : 'Êõ∏„Å
 <meta name="google-site-verification" content="GEuKa5hhYaQOOGVIul6fvgV6nUq9zs3igHpqrMigzxw">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@codeute">
-<meta name="twitter:creator" content="@setchi_">
+<meta name="twitter:creator" content="@setchi">
 <meta property="fb:app_id" content="607472932619133">
 <meta property="og:title" content="<?php echo $title ?>">
 <meta property="og:description" content="<?php echo $og_description ?>">
