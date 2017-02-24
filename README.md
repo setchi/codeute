@@ -1,5 +1,5 @@
 # Codeute!
-コーデュートは、書いたコードをタイピングゲームにして遊べるWebアプリです。
+コーデュートは、書いたコードをタイピングゲームにして遊べるWebアプリです。[English](https://translate.google.com/translate?sl=ja&tl=en&u=https://github.com/setchi/codeute) (by Google Translate)
 
 * [https://codeute.com/](https://codeute.com/)
  * JavaScriptのサンプル: [https://codeute.com/javascript/1](https://codeute.com/javascript/1)
