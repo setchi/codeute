@@ -51,7 +51,7 @@
 						</div>
 						<hr class="sharpen">
 						<div class="message">
-							<h4>制作者</h4>
+							<h4>開発者</h4>
 							<div class="about-contents">
 								<p><a href="https://twitter.com/intent/user?screen_name=setchi">@setchi</a></p>
 							</div>
@@ -74,14 +74,14 @@
 							<h4>更新履歴</h4>
 							<div class="about-contents">
 								<ul class="unstyled">
-									<li>2013-10-12 =>&nbsp;<a href="http://setchi-q.hatenablog.com/entry/2013/10/12/234530" target="_blank">コード一覧でランキングの順位を表示</a></li>
-									<li>2013-10-11 =>&nbsp;<a href="http://setchi-q.hatenablog.com/entry/2013/10/11/223255" target="_blank">レーティングの計算式</a></li>
-									<li>2013-10-10 =>&nbsp;<a href="http://setchi-q.hatenablog.com/entry/2013/10/10/234224" target="_blank">2013/10/10の変更点</a></li>
-									<li>2013-10-09 =>&nbsp;<a href="http://setchi-q.hatenablog.com/entry/2013/10/09/211556" target="_blank">2013/10/09の変更点</a></li>
-									<li>2013-10-08 =>&nbsp;<a href="http://setchi-q.hatenablog.com/entry/2013/10/08/194953" target="_blank">総合ランキングを実装しました</a></li>
-									<li>2013-10-07 =>&nbsp;<a href="http://setchi-q.hatenablog.com/entry/2013/10/07/223513" target="_blank">ESCキーでのリトライ機能を実装しました</a></li>
-									<li>2013-10-06 =>&nbsp;<a href="http://setchi-q.hatenablog.com/entry/2013/10/06/232139" target="_blank">結果画面を修正しました</a></li>
-									<li>2013-10-05 =>&nbsp;<a href="http://setchi-q.hatenablog.com/entry/2013/10/05/204938" target="_blank">β版公開しました。</a></li>					
+									<li>2013-10-12 =>&nbsp;<a href="http://setchi.hatenablog.com/entry/2013/10/12/234530" target="_blank">コード一覧でランキングの順位を表示</a></li>
+									<li>2013-10-11 =>&nbsp;<a href="http://setchi.hatenablog.com/entry/2013/10/11/223255" target="_blank">レーティングの計算式</a></li>
+									<li>2013-10-10 =>&nbsp;<a href="http://setchi.hatenablog.com/entry/2013/10/10/234224" target="_blank">2013/10/10の変更点</a></li>
+									<li>2013-10-09 =>&nbsp;<a href="http://setchi.hatenablog.com/entry/2013/10/09/211556" target="_blank">2013/10/09の変更点</a></li>
+									<li>2013-10-08 =>&nbsp;<a href="http://setchi.hatenablog.com/entry/2013/10/08/194953" target="_blank">総合ランキングを実装しました</a></li>
+									<li>2013-10-07 =>&nbsp;<a href="http://setchi.hatenablog.com/entry/2013/10/07/223513" target="_blank">ESCキーでのリトライ機能を実装しました</a></li>
+									<li>2013-10-06 =>&nbsp;<a href="http://setchi.hatenablog.com/entry/2013/10/06/232139" target="_blank">結果画面を修正しました</a></li>
+									<li>2013-10-05 =>&nbsp;<a href="http://setchi.hatenablog.com/entry/2013/10/05/204938" target="_blank">β版公開しました。</a></li>
 								</ul>
 							</div>
 						</div>
